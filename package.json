@@ -4,8 +4,7 @@
   "description": "a mobile phone contact backup solution",
   "main": "server/app.js",
   "scripts": {
-    "test": "",
-    "start": "nodemon server/app.js"
+    "start": "node server/app.js"
   },
   "keywords": [],
   "author": "Nerdy",
